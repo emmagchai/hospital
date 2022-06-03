@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.e6c13ad2.css",
+    "main.js": "/hospital/static/js/main.9b5f167a.js",
+    "static/media/Leslie.jpeg": "/hospital/static/media/Leslie.034673407cd99a948a6b.jpeg",
+    "static/media/Emma.jpg": "/hospital/static/media/Emma.bf9b45687e7c7b78e6cb.jpg",
+    "index.html": "/hospital/index.html",
+    "main.e6c13ad2.css.map": "/hospital/static/css/main.e6c13ad2.css.map",
+    "main.9b5f167a.js.map": "/hospital/static/js/main.9b5f167a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b5f167a.js"
+  ]
+}
